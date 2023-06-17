@@ -51,7 +51,7 @@ const DocsbarMenu = () => (
         <i className="lock-icon"><BiLock /></i>
         Share
       </button>
-      <a href="https://ahzamir-portfolio.vercel.app/" target="blank">
+      <a href="https://rishavs-portfolio.vercel.app/" target="blank">
         <img src={profile} alt="Profile" className="profile" />
       </a>
     </div>
